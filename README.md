@@ -1,0 +1,1 @@
+# generating_anime_imgs
