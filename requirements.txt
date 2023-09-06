@@ -1,0 +1,7 @@
+kaggle
+cv2
+torch
+numpy 
+matplotlib
+tqdm 
+PIL
